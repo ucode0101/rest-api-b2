@@ -1,0 +1,13 @@
+{
+  "firstName": "Jason",
+  "lastName": "Jackson",
+  "birthdate": "1979-08-08",
+  "email": "jjason@test.com",
+  "phone": "1111111111",
+  "street1": "123 Main St.",
+  "street2": "Apartment P",
+  "city": "City",
+  "stateProvince": "NY",
+  "postalCode": "12345",
+  "country": "USA"
+}
